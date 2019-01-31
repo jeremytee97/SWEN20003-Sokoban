@@ -1,0 +1,35 @@
+FUNCTIONALITY
+--
+Blocks loaded and pushable: 1/1
+Level completes: 0.5/0.5
+Next level loaded: 0.5/0.5
+Move counter: 0.5/0.5
+Moves can be undone: 0/1
+Ice block slides: 0.5/0.5
+TNT destroys cracked wall: 0.5/0.5
+Explosion effect: 0.5/0.5
+Enemy units loaded/displayed: 0.5/0.5
+Rogue/skeleton move: 0.5/0.5
+Rogue pushes: 0.5/0.5
+Mage follows player: 1/1
+Switch hides door tile: 1/1
+Level restarts on contact with enemy: 0.5/0.5
+
+CODING STYLE
+--
+Magic numbers: 0.5/0.5
+Encapsulation: 0.5/1
+Delegation: 0.5/1.5
+Visibility modifiers: 0/0.5
+Commenting and conventions: 0.5/0.5
+Javadocs: 1/1
+Reflection: 2/2
+
+Penalty marks: 0
+
+
+TOTAL MARK: 13/16
+
+TUTOR COMMENTS
+--
+Too much logic performed in World. Repeated code in Movable.
