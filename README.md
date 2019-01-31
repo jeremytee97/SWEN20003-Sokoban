@@ -1,6 +1,6 @@
 # SWEN20003-Sokoban(Uses Slick Library)
 
-Shadow Blocks is a puzzle game where the player must solve block-based puzzles to advance deeper into the caves, while avoiding monsters that guard its depths.
+Shadow Blocks is a puzzle game where the player must solve block-based puzzles to advance deeper into the caves, while avoiding monsters that guard its depths. :door::runner:
 
 Results:
 
